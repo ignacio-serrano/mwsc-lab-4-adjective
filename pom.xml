@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gft.ioso.lab4</groupId>
-	<artifactId>lab-4-article</artifactId>
+	<artifactId>lab-4-adjective</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>lab-4-article</name>
-	<description>lab-4-article</description>
+	<name>lab-4-adjective</name>
+	<description>lab-4-adjective</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

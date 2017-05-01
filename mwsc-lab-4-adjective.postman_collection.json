@@ -1,16 +1,16 @@
 {
 	"variables": [],
 	"info": {
-		"name": "mwsc-lab-4-article",
-		"_postman_id": "ecfead13-252c-b763-8afa-0e9dd988af1a",
+		"name": "mwsc-lab-4-adjective",
+		"_postman_id": "187b5fe7-5a08-88b0-7eba-e7cfa412e217",
 		"description": "",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "article-root",
+			"name": "adjective-root",
 			"request": {
-				"url": "http://localhost:{{article.port}}/",
+				"url": "http://localhost:{{adjective.port}}/",
 				"method": "GET",
 				"header": [
 					{

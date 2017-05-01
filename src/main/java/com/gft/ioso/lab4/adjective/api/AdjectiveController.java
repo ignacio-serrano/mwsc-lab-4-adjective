@@ -1,11 +1,11 @@
-package com.gft.ioso.lab4.article.api;
+package com.gft.ioso.lab4.adjective.api;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class ArticleController {
+public class AdjectiveController {
 
 	@Value("${words}")
 	private String words;
